@@ -1,0 +1,25 @@
+# lines starting with '#' are ignored here
+# use comma'|' as separator
+#Copy files to csv_folder, add format here, only then file is converted
+# Example
+#test.csv|test.xml|+0600|test_header_for_xml_file
+zeecinHD.csv|Zee Cinema HD.xml|+0600|Zee Cinema HD
+9XM.csv|9XM.xml|+0600|9XM HD
+colors.csv|Colors HD.xml|+0600|Colors HD
+comedycen.csv|Comedy Central.xml|+0600|Comedy Central
+sonyHD.csv|Sony.xml|+0600|Sony
+sonyten1.csv|Sony Ten1 HD.xml|+0600|Sony Ten1 HD
+sonyten2.csv|Sony Ten2 HD.xml|+0600|Sony Ten2 HD
+zeetv.csv|Zee TV.xml|+0600|Zee TV
+max.csv|Sony Max HD.xml|+0600|Sony Max HD
+cinemax.csv|cinemax.xml|+0800|cinemax
+hbofamily.csv|HBO Family.xml|+0800|HBO Family
+hbohits.csv|HBO Hits.xml|+0800|HBO Hits
+hbosig.csv|HBO Signature.xml|+0800|HBO Signature
+hbo.csv|HBO.xml|+0800|hbo
+tba.csv|NTV HD.xml|+0545|NTV HD
+tba.csv|Sarokar TV.xml|+0545|Sarokar TV
+tba.csv|Ramailo HD.xml|+0545|Ramailo HD
+tba.csv|Kantipur TV.xml|+0545|Kantipur TV
+dmovies.csv|D Movies.xml|+0545|D Movies
+dhreality.csv|Reality TV.xml|+0545|Reality TV
